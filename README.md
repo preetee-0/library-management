@@ -16,27 +16,8 @@ A comprehensive Library Management System built with Laravel to streamline book 
 ##  Technologies Used
 
 - **Laravel** - PHP Framework
-- **MySQL** - Database
+- **sqlite** - Database
 - **Bootstrap 5** - Frontend Framework
 - **JavaScript** - Interactive elements
 - **Composer** - PHP dependency management
-- **Vite** - Asset bundling
-- **SweetAlert2** - Beautiful alerts and modals
 
-##  Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- PHP >= 8.0
-- Composer
-- MySQL
-- Node.js & npm
-- Git
-
-##  Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/preetee-0/library-management-system.git
-cd library-management-system
